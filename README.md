@@ -1,6 +1,6 @@
 # Hi, I'm Pushkar Pramod Wani 👋
 
-Graduate Intern, AI & Advanced Analytics @ Regeneron • MS Computer Science, Binghamton University (SUNY)
+Full Stack AI Engineer, AI & Advanced Analytics @ Regeneron • MS Computer Science, Binghamton University (SUNY)
 
 AI Engineer | Full Stack Developer | Data Engineer
 
